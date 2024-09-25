@@ -32,15 +32,10 @@ authors:
       Brno, 602 00, Czech Republic
     orcid: 'https://orcid.org/0009-0001-7780-3317'
     credit: 0.2
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.11085862
-  - type: url
-    value: 'https://alphafind.fi.muni.cz/'
-  - type: url
-    value: 'https://github.com/Coda-Research-Group/AlphaFind/'
+doi: 10.5281/zenodo.11085862
+date-released: 2024-04-29
+url: "https://github.com/Coda-Research-Group/AlphaFind"
 repository-code: 'https://github.com/Coda-Research-Group/AlphaFind/'
-url: 'https://alphafind.fi.muni.cz/'
 repository-artifact: >-
   https://data.narodni-repozitar.cz/general/datasets/egsm2-7a369
 abstract: >-
