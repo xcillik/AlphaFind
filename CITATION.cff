@@ -32,8 +32,7 @@ authors:
       Brno, 602 00, Czech Republic
     orcid: 'https://orcid.org/0009-0001-7780-3317'
     credit: 0.2
-doi: 10.5281/zenodo.11085862
-date-released: 2024-04-29
+doi: https://doi.org/10.5281/zenodo.11085862
 url: "https://github.com/Coda-Research-Group/AlphaFind"
 repository-code: 'https://github.com/Coda-Research-Group/AlphaFind/'
 repository-artifact: >-
